@@ -1,6 +1,6 @@
 {
-    "appSecret": "fc4596dceb03c7a02d26b3b0eb13cfc8",
-    "pageAccessToken": "EAAJNYd3dH6oBAISqShPQQXt4BOxItZCrePwpth318gcD80vlToTa0372cJsFwpTMsv8q1HAi4BXpAFXaZArJYtUaypXD7dZAq6itpuFrDJaZBHQhUbKLtyjUCGJKiZAG9ixbpanveeeoQxLB0o2jX8gDz2T8flNf6yLZALEjrwgyIZAx8GmA6fnJ9XoUM8Pdn2un1glnUzKZCwZDZD",
-    "validationToken": "Allah9122@",
-    "serverURL": "https://safe-bayou-72011.herokuapp.com"
+    "appSecret": "",
+    "pageAccessToken": "",
+    "validationToken": "",
+    "serverURL": ""
 }
